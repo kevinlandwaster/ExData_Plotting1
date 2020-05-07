@@ -1,3 +1,7 @@
+# Important
+
+See RUN.md for instructions on how to run this project.
+
 ## Introduction
 
 This assignment uses data from
